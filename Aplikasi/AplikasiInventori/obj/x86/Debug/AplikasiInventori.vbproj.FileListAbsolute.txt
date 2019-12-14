@@ -1,0 +1,94 @@
+C:\Users\USER\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\USER\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\USER\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\USER\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\USER\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\USER\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\AplikasiInventori.vbproj.GenerateResource.Cache
+C:\Users\USER\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\USER\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\USER\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\USER\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmDataBarang.resources
+C:\Users\USER\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmDataPelanggan.resources
+C:\Users\USER\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmDataSuplier.resources
+D:\Materi Perjurusan\Visual Studio Net\project\binalery\AplikasiInventori\AplikasiInventori\bin\Debug\AplikasiInventori.exe
+D:\Materi Perjurusan\Visual Studio Net\project\binalery\AplikasiInventori\AplikasiInventori\bin\Debug\AplikasiInventori.pdb
+D:\Materi Perjurusan\Visual Studio Net\project\binalery\AplikasiInventori\AplikasiInventori\bin\Debug\AplikasiInventori.xml
+D:\Materi Perjurusan\Visual Studio Net\project\binalery\AplikasiInventori\AplikasiInventori\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\Materi Perjurusan\Visual Studio Net\project\binalery\AplikasiInventori\AplikasiInventori\obj\x86\Debug\WindowsApplication1.frmDataBarang.resources
+D:\Materi Perjurusan\Visual Studio Net\project\binalery\AplikasiInventori\AplikasiInventori\obj\x86\Debug\WindowsApplication1.frmDataPelanggan.resources
+D:\Materi Perjurusan\Visual Studio Net\project\binalery\AplikasiInventori\AplikasiInventori\obj\x86\Debug\WindowsApplication1.frmDataSuplier.resources
+D:\Materi Perjurusan\Visual Studio Net\project\binalery\AplikasiInventori\AplikasiInventori\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Materi Perjurusan\Visual Studio Net\project\binalery\AplikasiInventori\AplikasiInventori\obj\x86\Debug\AplikasiInventori.vbproj.GenerateResource.Cache
+D:\Materi Perjurusan\Visual Studio Net\project\binalery\AplikasiInventori\AplikasiInventori\obj\x86\Debug\AplikasiInventori.exe
+D:\Materi Perjurusan\Visual Studio Net\project\binalery\AplikasiInventori\AplikasiInventori\obj\x86\Debug\AplikasiInventori.xml
+D:\Materi Perjurusan\Visual Studio Net\project\binalery\AplikasiInventori\AplikasiInventori\obj\x86\Debug\AplikasiInventori.pdb
+D:\Materi Perjurusan\Visual Studio Net\project\binalery\AplikasiInventori\AplikasiInventori\obj\x86\Debug\WindowsApplication1.frmTransaksiBeli.resources
+D:\Materi Perjurusan\Visual Studio Net\project\binalery\AplikasiInventori\AplikasiInventori\obj\x86\Debug\WindowsApplication1.frmTransaksiJual.resources
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari\AplikasiInventori\AplikasiInventori\obj\x86\Debug\AplikasiInventori.exe
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari\AplikasiInventori\AplikasiInventori\obj\x86\Debug\AplikasiInventori.xml
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari\AplikasiInventori\AplikasiInventori\obj\x86\Debug\AplikasiInventori.pdb
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari\AplikasiInventori\AplikasiInventori\bin\Debug\AplikasiInventori.exe
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari\AplikasiInventori\AplikasiInventori\bin\Debug\AplikasiInventori.pdb
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari\AplikasiInventori\AplikasiInventori\bin\Debug\AplikasiInventori.xml
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari\AplikasiInventori\AplikasiInventori\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari\AplikasiInventori\AplikasiInventori\obj\x86\Debug\WindowsApplication1.frmDataBarang.resources
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari\AplikasiInventori\AplikasiInventori\obj\x86\Debug\WindowsApplication1.frmDataPelanggan.resources
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari\AplikasiInventori\AplikasiInventori\obj\x86\Debug\WindowsApplication1.frmDataSuplier.resources
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari\AplikasiInventori\AplikasiInventori\obj\x86\Debug\WindowsApplication1.frmTransaksiBeli.resources
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari\AplikasiInventori\AplikasiInventori\obj\x86\Debug\WindowsApplication1.frmTransaksiJual.resources
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari\AplikasiInventori\AplikasiInventori\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari\AplikasiInventori\AplikasiInventori\obj\x86\Debug\AplikasiInventori.vbproj.GenerateResource.Cache
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)\AplikasiInventori\AplikasiInventori\obj\x86\Debug\AplikasiInventori.exe
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)\AplikasiInventori\AplikasiInventori\obj\x86\Debug\AplikasiInventori.xml
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)\AplikasiInventori\AplikasiInventori\obj\x86\Debug\AplikasiInventori.pdb
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)\AplikasiInventori\AplikasiInventori\bin\Debug\AplikasiInventori.exe
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)\AplikasiInventori\AplikasiInventori\bin\Debug\AplikasiInventori.pdb
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)\AplikasiInventori\AplikasiInventori\bin\Debug\AplikasiInventori.xml
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)\AplikasiInventori\AplikasiInventori\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)\AplikasiInventori\AplikasiInventori\obj\x86\Debug\WindowsApplication1.frmDataBarang.resources
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)\AplikasiInventori\AplikasiInventori\obj\x86\Debug\WindowsApplication1.frmDataPelanggan.resources
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)\AplikasiInventori\AplikasiInventori\obj\x86\Debug\WindowsApplication1.frmDataSuplier.resources
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)\AplikasiInventori\AplikasiInventori\obj\x86\Debug\WindowsApplication1.frmLogin.resources
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)\AplikasiInventori\AplikasiInventori\obj\x86\Debug\WindowsApplication1.frmTransaksiBeli.resources
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)\AplikasiInventori\AplikasiInventori\obj\x86\Debug\WindowsApplication1.frmTransaksiJual.resources
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)\AplikasiInventori\AplikasiInventori\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)\AplikasiInventori\AplikasiInventori\obj\x86\Debug\AplikasiInventori.vbproj.GenerateResource.Cache
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)WahyuPrototype\AplikasiInventori\AplikasiInventori\obj\x86\Debug\AplikasiInventori.exe
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)WahyuPrototype\AplikasiInventori\AplikasiInventori\obj\x86\Debug\AplikasiInventori.xml
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)WahyuPrototype\AplikasiInventori\AplikasiInventori\obj\x86\Debug\AplikasiInventori.pdb
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)WahyuPrototype\AplikasiInventori\AplikasiInventori\bin\Debug\AplikasiInventori.exe
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)WahyuPrototype\AplikasiInventori\AplikasiInventori\bin\Debug\AplikasiInventori.pdb
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)WahyuPrototype\AplikasiInventori\AplikasiInventori\bin\Debug\AplikasiInventori.xml
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)WahyuPrototype\AplikasiInventori\AplikasiInventori\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)WahyuPrototype\AplikasiInventori\AplikasiInventori\obj\x86\Debug\WindowsApplication1.frmDataPelanggan.resources
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)WahyuPrototype\AplikasiInventori\AplikasiInventori\obj\x86\Debug\WindowsApplication1.frmLogin.resources
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)WahyuPrototype\AplikasiInventori\AplikasiInventori\obj\x86\Debug\WindowsApplication1.frmTransaksiJual.resources
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)WahyuPrototype\AplikasiInventori\AplikasiInventori\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)WahyuPrototype\AplikasiInventori\AplikasiInventori\obj\x86\Debug\AplikasiInventori.vbproj.GenerateResource.Cache
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)WahyuPrototype\AplikasiInventori\AplikasiInventori\obj\x86\Debug\WindowsApplication1.frmDataMakanan.resources
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)WahyuPrototype\AplikasiInventori\AplikasiInventori\obj\x86\Debug\AplikasiInventori.vbprojResolveAssemblyReference.cache
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)WahyuPrototype_Copy\AplikasiInventori\AplikasiInventori\obj\x86\Debug\AplikasiInventori.exe
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)WahyuPrototype_Copy\AplikasiInventori\AplikasiInventori\obj\x86\Debug\AplikasiInventori.xml
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)WahyuPrototype_Copy\AplikasiInventori\AplikasiInventori\obj\x86\Debug\AplikasiInventori.pdb
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)WahyuPrototype_Copy\AplikasiInventori\AplikasiInventori\bin\Debug\AplikasiInventori.exe
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)WahyuPrototype_Copy\AplikasiInventori\AplikasiInventori\bin\Debug\AplikasiInventori.pdb
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)WahyuPrototype_Copy\AplikasiInventori\AplikasiInventori\bin\Debug\AplikasiInventori.xml
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)WahyuPrototype_Copy\AplikasiInventori\AplikasiInventori\obj\x86\Debug\AplikasiInventori.vbprojResolveAssemblyReference.cache
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)WahyuPrototype_Copy\AplikasiInventori\AplikasiInventori\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)WahyuPrototype_Copy\AplikasiInventori\AplikasiInventori\obj\x86\Debug\WindowsApplication1.frmDataMakanan.resources
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)WahyuPrototype_Copy\AplikasiInventori\AplikasiInventori\obj\x86\Debug\WindowsApplication1.frmDataPelanggan.resources
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)WahyuPrototype_Copy\AplikasiInventori\AplikasiInventori\obj\x86\Debug\WindowsApplication1.frmLogin.resources
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)WahyuPrototype_Copy\AplikasiInventori\AplikasiInventori\obj\x86\Debug\WindowsApplication1.frmTransaksiJual.resources
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)WahyuPrototype_Copy\AplikasiInventori\AplikasiInventori\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)WahyuPrototype_Copy\AplikasiInventori\AplikasiInventori\obj\x86\Debug\AplikasiInventori.vbproj.GenerateResource.Cache
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)WahyuPrototype_Copy\AplikasiInventori\AplikasiInventori\obj\x86\Debug\WindowsApplication1.frmTambahAdmin.resources
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)WahyuPrototype_Copy\AplikasiInventori\AplikasiInventori\bin\Debug\AplikasiInventori.exe.config
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)WahyuPrototype_Copy\AplikasiInventori\AplikasiInventori\obj\x86\Debug\WindowsApplication1.Transaksi.resources
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)KaWahyuPrototype_Copy\AplikasiInventori\AplikasiInventori\bin\Debug\AplikasiInventori.exe.config
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)KaWahyuPrototype_Copy\AplikasiInventori\AplikasiInventori\obj\x86\Debug\AplikasiInventori.exe
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)KaWahyuPrototype_Copy\AplikasiInventori\AplikasiInventori\obj\x86\Debug\AplikasiInventori.xml
+D:\Materi Perjurusan\Visual Studio Net\project\RyanAzhari(VB)KaWahyuPrototype_Copy\AplikasiInventori\AplikasiInventori\obj\x86\Debug\AplikasiInventori.pdb
+D:\Materi Perjurusan\Visual Studio Net\project\Kasir_Restaurant_VB\Aplikasi\AplikasiInventori\bin\Debug\AplikasiInventori.exe.config
+D:\Materi Perjurusan\Visual Studio Net\project\Kasir_Restaurant_VB\Aplikasi\AplikasiInventori\obj\x86\Debug\AplikasiInventori.exe
+D:\Materi Perjurusan\Visual Studio Net\project\Kasir_Restaurant_VB\Aplikasi\AplikasiInventori\obj\x86\Debug\AplikasiInventori.xml
+D:\Materi Perjurusan\Visual Studio Net\project\Kasir_Restaurant_VB\Aplikasi\AplikasiInventori\obj\x86\Debug\AplikasiInventori.pdb
